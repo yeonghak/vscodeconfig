@@ -1,0 +1,54 @@
+{
+    "workbench.iconTheme": "vscode-great-icons",
+    "open-in-browser.default": "Google Chrome",
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.renderIndentGuides": false,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": false,
+    "workbench.sideBar.location": "left",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "eslint.options": {
+        "configFile": "D:/eslint/.eslintrc.js"
+    },
+    "files.autoSaveDelay": 5000,
+    "workbench.colorTheme": "One Dark Pro",
+    "vetur.grammar.customBlocks": {
+        "docs": "md",
+        "i18n": "json",
+    },
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown",
+        "php"
+    ],
+    "css.lint.float": "warning",
+    "css.lint.compatibleVendorPrefixes": "warning",
+    "css.lint.duplicateProperties": "warning",
+    "css.lint.zeroUnits": "warning",
+    "sftp.debug": true,
+    "htmlhint.options": {
+        "src-not-empty": true,
+        "title-require": true,
+        "doctype-first": false,
+        "space-tab-mixed-disabled": true,
+        "spec-char-escape": true,
+        "tag-pair": true
+    },
+    "css.lint.unknownVendorSpecificProperties": "warning",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "html.format.wrapLineLength": 0,
+    "javascript.suggest.enabled": false,
+    "eslint.alwaysShowStatus": true,
+    "eslint.debug": true,
+    "eslint.enable": false
+}
